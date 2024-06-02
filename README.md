@@ -24,6 +24,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![](https://i.pinimg.com/564x/79/ef/b9/79efb9a061f2d90653513a07bed7b55b.jpg)
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=parcamurat&icon=0&color=0)](https://visitcount.itsvg.in)
 
