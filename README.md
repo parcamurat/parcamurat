@@ -24,7 +24,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![](https://i.pinimg.com/564x/79/ef/b9/79efb9a061f2d90653513a07bed7b55b.jpg)
+![](https://preview.redd.it/vhan6cqjlag81.jpg?width=640&crop=smart&auto=webp&s=ca2d0d731d98316642359308a9f6c2639383661e)
 
 
 
