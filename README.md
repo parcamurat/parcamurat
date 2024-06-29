@@ -459,10 +459,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
-<br><p align="center">
-<a href="https://github.com/trinib/trinib/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=trinib/trinib" />
-</a>
+
 
 <!-- 
 
