@@ -289,7 +289,7 @@ When you click on a link it will submit a new issue with the desired move, creat
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 26 | [@trinib](https://github.com/trinib) |
+| 26 | [@trinib](https://github.com/parcamurat) |
 | 14 | [@JayantGoel001](https://github.com/JayantGoel001) |
 | 8 | [@viktoriussuwandi](https://github.com/viktoriussuwandi) |
 | 5 | [@lulunac27a](https://github.com/lulunac27a) |
